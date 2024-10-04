@@ -1,4 +1,6 @@
 div {
+    /* red background, white text, font size of 32px, center aligned, bold */
+    
     background-color:red;
     color: white;
     font-size: 32px;
