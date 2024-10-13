@@ -5,6 +5,7 @@ Both elements: font size 28px, list of fonts containing Helvetica and Times New 
 
 .left-button {
     background-color: black;
+    color: white;
 }
 
 .right-button {
