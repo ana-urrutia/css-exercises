@@ -8,3 +8,7 @@
     background-color: hsl(0,60%,80%);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
+
+#big-blue {
+    color: rgb(0,0,255)
+}
