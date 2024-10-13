@@ -14,5 +14,6 @@ Both elements: font size 28px, list of fonts containing Helvetica and Times New 
 
 .left-button,
 .right-button {
+    font-size: 28px;
     
 }
