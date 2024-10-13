@@ -3,3 +3,7 @@
 2nd element: blue text and a font size of 36px
 3rd element: in addition to odd numbered styles, add a font size of 24px
 4th element: light green background, font size of 24px and bold*/
+
+.first-class {
+    background-color: hsl(0,60%,80%);
+}
