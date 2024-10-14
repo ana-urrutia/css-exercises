@@ -1,3 +1,7 @@
 /* Add CSS Styling 
 - avatar & proportioned classes: 300 pixels wide x height that retains its original square proportions
 - avatar & distorted classes: 200 pixels wide x height twice as big as its width */
+
+.avatar.proportioned {
+    
+}
