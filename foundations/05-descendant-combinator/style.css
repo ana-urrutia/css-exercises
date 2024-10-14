@@ -2,6 +2,6 @@
     Only p elements that are descendants of the div element should have:
     yellow background, red text, font size of 20px, center aligned */
 
-    .div .p {
-        
+    div p {
+        background-color:yellow;
     }
