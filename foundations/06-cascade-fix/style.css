@@ -1,9 +1,9 @@
-.para {
-  font-size: 22px;
-}
-
 body {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.para {
+  font-size: 22px;
 }
 
 .para,
