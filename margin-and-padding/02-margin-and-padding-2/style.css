@@ -42,4 +42,8 @@ button {
   border: 1px solid #eee;
   display: block;
   margin-left: 140px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
